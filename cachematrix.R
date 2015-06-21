@@ -1,5 +1,5 @@
 ##This function basically stores the matrix in cache along with the other things mentioned below.
-#storing the matrix in cache
+makeCacheMatrix <- function(x = matrix())    #storing the matrix in cache
 {
   m <- NULL                      
   set <- function(y) 
